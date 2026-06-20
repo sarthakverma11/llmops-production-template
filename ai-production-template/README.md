@@ -20,7 +20,7 @@ The project currently demonstrates:
 
 ## Why this project exists
 
-Production AI is not just about model building. Real AI systems need structure, configuration, logs, tests, reproducibility, and clear documentation. This repository will grow lecture by lecture into a more complete MLOps/LLMOps project.
+Production AI is also not just about model building. Real AI systems need structure, configuration, logs, tests, reproducibility, and clear documentation. This repository will grow lecture by lecture into a more complete MLOps/LLMOps project.
 
 Think of this repo as the foundation of a building. Future lectures will add the rooms, wiring, security, monitoring, and automation.
 
